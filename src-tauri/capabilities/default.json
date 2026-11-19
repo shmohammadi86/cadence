@@ -1,0 +1,1 @@
+{"$schema":"../gen/schemas/desktop-schema.json","description":"Cadence default capability — core window only; all data access goes through Cadence's own commands, no fs/shell/http plugin permissions.","identifier":"default","permissions":["core:default"],"windows":["main"]}
